@@ -762,7 +762,6 @@ features
 .features-small-item {
   cursor: pointer;
   display: block;
-  min-height: 515px;
   background: #FFFFFF;
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.10);
   -webkit-border-radius: 20px;
@@ -928,7 +927,6 @@ parallax & home seperator
   border-radius: 20px;
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.08);
   margin-bottom: 30px;
-  min-height: 250px;
   position: relative;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
